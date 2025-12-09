@@ -1,1 +1,14 @@
 tamo indo
+aqui estamos trabalhando para melhorar nosso desempenho no quesito desenvolvinento
+
+vou deixar anotado aqui algumas coisas que aprendi hoje
+
+Criar um repositorio no github
+
+o que é um repositorio? é um ambiente em que seu projeto fica alocado e pode ser acessado em diversar versões dele mesmo, por exemplo acessar ele versões antigas
+
+alguns comandos no Git Bash -
+
+git add
+git status
+git commit
